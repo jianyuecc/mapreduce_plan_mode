@@ -1,0 +1,2 @@
+# mapreduce_plan_mode
+用于学习和交流mapreduce的相关知识，上传的代码都是在学习过程中练习的demo，有的是仿照某些例子
